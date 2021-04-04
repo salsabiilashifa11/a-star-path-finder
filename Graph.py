@@ -49,7 +49,7 @@ class Graph:
         Pprec = self.SearchNode(source)
         Psucc = self.SearchNode(destination)
 
-        weight = source.distance(destination)
+        weight = distance(destination)
 
         if (self.SearchEdge(source, destination) == None):
             T = Pprec.trail
