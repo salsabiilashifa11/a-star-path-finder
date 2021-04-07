@@ -62,6 +62,7 @@ $ pip3 install math
 $ jupyter notebook
 ```
 - Buka file `AStarPathFinder.ipynb`
+- Run All
 
 
 ## Author
