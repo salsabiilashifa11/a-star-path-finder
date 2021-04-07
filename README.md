@@ -41,9 +41,15 @@ Langkah-langkah program :
 - gmaps
 - math
 
-#### Installing gmaps
+#### Installing jupyter-gmaps with conda
 ```
 $ conda install -c conda-forge maps
+```
+#### Installing jupyter-gmaps with pip
+```
+$ jupyter nbextension enable --py --sys-prefix widgetsnbextension
+$ pip install gmaps
+$ jupyter nbextension enable --py --sys-prefix gmaps
 ```
 #### Installing math
 ```
