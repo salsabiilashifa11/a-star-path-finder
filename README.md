@@ -63,6 +63,7 @@ $ jupyter notebook
 ```
 - Buka file `AStarPathFinder.ipynb`
 - Run All
+- <span style="color:red">**Terdapat kemungkinan API key sudah expired ketika pengecekan. Jika API key expired, harap hubungi kami.**</span>
 
 
 ## Author
